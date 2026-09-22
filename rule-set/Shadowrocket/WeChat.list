@@ -1,4 +1,4 @@
-# 微信相关域名
+
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com
@@ -29,6 +29,3 @@ DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxapp.tc.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
-
-# 进程名精准匹配
-PROCESS-NAME,WeChat,DIRECT
